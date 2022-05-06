@@ -1,7 +1,7 @@
 <h1 style="font-size: 20px">Hi, I'm Nosdeal.</h1>
 
-I'm a learner in love with technology.
-Cook's is my hobby.
+I'm a learner in love with technology. <br>
+Cook's is my hobby. <br>
 <div>
   <a href="https://beacons.ai/Nosdeal"
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nosdeal&show_icons=true&theme=dracula&include_all_commits=true&count_privat=true"/>
